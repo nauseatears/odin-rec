@@ -1,1 +1,2 @@
 # odin-rec
+Recipe site.
